@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2 text-xl font-semibold">
             <Building className="w-6 h-6 text-primary-accent" />
-            <span>МосАптека</span>
+            <span>Аптека СЮЗ</span>
           </Link>
           
           <nav className="hidden md:flex items-center space-x-8">
